@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/sajeevan09)
+  - [SQL Projects](https://github.com/sajeevan09/SQL-Projects)
     
 <h2>📜 Certifications: </h2>
 
