@@ -6,6 +6,7 @@
   - [SQL Projects](https://github.com/sajeevan09/SQL-Projects)
   - [Prolog](https://github.com/sajeevan09/Prolog)
   - [C++ Programming](https://github.com/sajeevan09/Cpp-Projects)
+  - [Python]
     
 <h2>📜 Certifications: </h2>
 
