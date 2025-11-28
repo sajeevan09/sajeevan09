@@ -15,7 +15,7 @@
 
 
 <h2>📺 About me</h2>
-Enthusiastic Computer Science Student seeking new opportunities to work on projects
+Enthusiastic CS Student seeking new opportunities to work on projects
 
 
 
