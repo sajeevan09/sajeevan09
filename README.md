@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sajeevan! <br/>
+<h1><br/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -15,7 +15,6 @@
 
 
 <h2>📺 About me</h2>
-Enthusiastic CS Student seeking new opportunities to work on projects
 
 
 
